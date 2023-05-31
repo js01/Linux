@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as r,O as e}from"./chunks/framework.dcea505e.js";const f=JSON.parse('{"title":"文件系统管理命令汇总","description":"","frontmatter":{},"headers":[],"relativePath":"文件系统管理命令汇总.md","filePath":"文件系统管理命令汇总.md"}'),a={name:"文件系统管理命令汇总.md"},_=e("",3),o=[_];function c(s,n,i,h,l,p){return d(),r("div",null,o)}const u=t(a,[["render",c]]);export{f as __pageData,u as default};

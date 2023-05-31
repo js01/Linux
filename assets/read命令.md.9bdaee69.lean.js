@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,O as s}from"./chunks/framework.dcea505e.js";const C=JSON.parse('{"title":"read命令","description":"","frontmatter":{},"headers":[],"relativePath":"read命令.md","filePath":"read命令.md"}'),n={name:"read命令.md"},o=s("",8),r=[o];function l(p,d,c,i,_,h){return t(),e("div",null,r)}const m=a(n,[["render",l]]);export{C as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as a,O as r}from"./chunks/framework.dcea505e.js";const m=JSON.parse('{"title":"查看文件内容","description":"","frontmatter":{},"headers":[],"relativePath":"查看文件内容.md","filePath":"查看文件内容.md"}'),e={name:"查看文件内容.md"},o=r("",6),_=[o];function c(h,s,n,l,i,p){return d(),a("div",null,_)}const f=t(e,[["render",c]]);export{m as __pageData,f as default};

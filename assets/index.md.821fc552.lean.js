@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,O as r}from"./chunks/framework.dcea505e.js";const u=JSON.parse('{"title":"Linux学习指南","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"},h=r("",13),o=[h];function n(l,d,s,c,m,p){return e(),t("div",null,o)}const f=a(i,[["render",n]]);export{u as __pageData,f as default};

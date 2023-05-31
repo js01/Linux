@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as e}from"./chunks/framework.dcea505e.js";const m=JSON.parse('{"title":"获取文件名和目录名","description":"","frontmatter":{},"headers":[],"relativePath":"获取文件名和目录名.md","filePath":"获取文件名和目录名.md"}'),t={name:"获取文件名和目录名.md"},o=e("",3),l=[o];function p(c,r,i,_,d,C){return a(),n("div",null,l)}const y=s(t,[["render",p]]);export{m as __pageData,y as default};

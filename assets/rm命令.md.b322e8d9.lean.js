@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,O as a}from"./chunks/framework.dcea505e.js";const f=JSON.parse('{"title":"rm命令","description":"","frontmatter":{},"headers":[],"relativePath":"rm命令.md","filePath":"rm命令.md"}'),d={name:"rm命令.md"},o=a("",3),_=[o];function s(c,m,n,h,i,l){return e(),r("div",null,_)}const u=t(d,[["render",s]]);export{f as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,O as r}from"./chunks/framework.dcea505e.js";const v=JSON.parse('{"title":"mv命令","description":"","frontmatter":{},"headers":[],"relativePath":"mv命令.md","filePath":"mv命令.md"}'),d={name:"mv命令.md"},o=r("",3),_=[o];function s(c,n,m,i,h,l){return e(),a("div",null,_)}const f=t(d,[["render",s]]);export{v as __pageData,f as default};

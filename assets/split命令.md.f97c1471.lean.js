@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,O as l}from"./chunks/framework.dcea505e.js";const y=JSON.parse('{"title":"split命令","description":"","frontmatter":{},"headers":[],"relativePath":"split命令.md","filePath":"split命令.md"}'),e={name:"split命令.md"},o=l("",10),p=[o];function n(r,c,i,d,D,h){return t(),a("div",null,p)}const A=s(e,[["render",n]]);export{y as __pageData,A as default};

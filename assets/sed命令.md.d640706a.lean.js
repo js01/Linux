@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,O as p}from"./chunks/framework.dcea505e.js";const D=JSON.parse('{"title":"sed命令","description":"","frontmatter":{},"headers":[],"relativePath":"sed命令.md","filePath":"sed命令.md"}'),e={name:"sed命令.md"},n=p("",59),o=[n];function t(c,r,C,i,d,y){return a(),l("div",null,o)}const A=s(e,[["render",t]]);export{D as __pageData,A as default};

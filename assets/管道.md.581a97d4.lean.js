@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,O as o}from"./chunks/framework.dcea505e.js";const y=JSON.parse('{"title":"管道","description":"","frontmatter":{},"headers":[],"relativePath":"管道.md","filePath":"管道.md"}'),t={name:"管道.md"},n=o("",5),l=[n];function p(c,r,_,d,i,C){return a(),e("div",null,l)}const A=s(t,[["render",p]]);export{y as __pageData,A as default};

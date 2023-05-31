@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,O as e}from"./chunks/framework.dcea505e.js";const m=JSON.parse('{"title":"curl命令","description":"","frontmatter":{},"headers":[],"relativePath":"curl命令.md","filePath":"curl命令.md"}'),o={name:"curl命令.md"},l=e("",7),c=[l];function n(p,r,_,i,u,d){return t(),s("div",null,c)}const y=a(o,[["render",n]]);export{m as __pageData,y as default};

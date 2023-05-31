@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as r,O as a}from"./chunks/framework.dcea505e.js";const m=JSON.parse('{"title":"vim编辑器的使用","description":"","frontmatter":{},"headers":[],"relativePath":"vim编辑器的使用.md","filePath":"vim编辑器的使用.md"}'),e={name:"vim编辑器的使用.md"},h=a("",28),o=[h];function i(l,c,n,b,s,p){return d(),r("div",null,o)}const y=t(e,[["render",i]]);export{m as __pageData,y as default};

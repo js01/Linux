@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e,O as d}from"./chunks/framework.dcea505e.js";const u=JSON.parse('{"title":"使用apt管理软件包","description":"","frontmatter":{},"headers":[],"relativePath":"使用apt管理软件包.md","filePath":"使用apt管理软件包.md"}'),_={name:"使用apt管理软件包.md"},o=d("",4),r=[o];function p(c,s,n,h,i,l){return a(),e("div",null,r)}const f=t(_,[["render",p]]);export{u as __pageData,f as default};

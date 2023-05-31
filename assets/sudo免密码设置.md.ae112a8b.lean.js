@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,O as a}from"./chunks/framework.dcea505e.js";const m=JSON.parse('{"title":"sudo免密码设置","description":"","frontmatter":{},"headers":[],"relativePath":"sudo免密码设置.md","filePath":"sudo免密码设置.md"}'),t={name:"sudo免密码设置.md"},d=a("",5),c=[d];function n(_,p,r,i,l,u){return s(),o("div",null,c)}const A=e(t,[["render",n]]);export{m as __pageData,A as default};

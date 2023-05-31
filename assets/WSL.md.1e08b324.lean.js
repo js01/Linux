@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as s,O as l}from"./chunks/framework.dcea505e.js";const m=JSON.parse('{"title":"WSL","description":"","frontmatter":{},"headers":[],"relativePath":"WSL.md","filePath":"WSL.md"}'),t={name:"WSL.md"},n=l("",10),o=[n];function i(r,c,p,d,h,u){return e(),s("div",null,o)}const b=a(t,[["render",i]]);export{m as __pageData,b as default};
